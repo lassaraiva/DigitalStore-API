@@ -26,7 +26,6 @@ A aplicação oferece operações básicas de CRUD para gerenciar recursos. Os e
 - **models/**: Contém os modelos do Sequelize para interação com o banco de dados.
 - **config/**: Configurações gerais e inicializações.
 - **middlewares/**: Middlewares personalizados.
-- **utils/**: Funções utilitárias e helpers.
 
 ## Configure suas variáveis de ambiente:
 
